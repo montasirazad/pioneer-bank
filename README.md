@@ -1,2 +1,2 @@
 # pioneer-bank
-A simple bank account project for calculating withdraw and deposit  money 
+A simple demo bank account project for calculating withdraw and deposit  money 
